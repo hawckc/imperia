@@ -1,0 +1,3 @@
+[submodule "imperia-moduless"]
+	path = imperia-moduless
+	url = https://github.com/hawckc/imperia-moduless.git
